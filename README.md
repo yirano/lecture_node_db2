@@ -4,9 +4,8 @@ Guided project for **Node DB II** module.
 
 ## Prerequisites
 
-- [DB Browser for SQLite](https://sqlitebrowser.org/) installed.
+- [DB Browser for SQLite](https://sqlitebrowser.org/) or a similar app installed.
 - a REST client like [Insomnia](https://insomnia.rest/download/) or [Postman](https://www.getpostman.com/downloads/) installed.
-- create a free account for [DB Designer](https://dbdesigner.net).
 
 ## Project Setup
 
